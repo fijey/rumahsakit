@@ -38,7 +38,7 @@
       </button>
      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav ml-auto">
-          <a href="landing_page.php" class="nav-item nav-link active">Home <span class="sr-only">(current)</span></a>
+          <a href="index.php" class="nav-item nav-link active">Home <span class="sr-only">(current)</span></a>
           <a href="service.php"  class="nav-item nav-link" href="#">service</a>
           <a href="about.php" class="nav-item nav-link " href="#">About</a>
           <a href ="reservasi.php" class="nav-item btn btn-primary tombol"><label style="color: white; padding-top: 2px;">Pasien Baru?</label></a>
